@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "João da Silva Siqueira",
+      "document": "05537357054",
+      "email": "joaosiqueira@gmail.com",
+      "password": "Kcs_2907"
+    },
+    {
+      "id": "2",
+      "name": "Márcio dos Santos",
+      "document": "30356473058",
+      "email": "marciosantos@gmail.com",
+      "password": "Hdc_4s79"
+    },
+    {
+      "id": "b43a",
+      "document": "603.714.313-79",
+      "name": "Andrey dos Santos",
+      "email": "teste@teste.com",
+      "password": "123asdASs2#"
+    },
+    {
+      "id": "c235",
+      "document": "603.714.313-79",
+      "name": "Andrey dos Santos",
+      "email": "teste@teste.com",
+      "password": "123asdASs2#"
+    },
+    {
+      "id": "492d",
+      "document": "603.714.313-79",
+      "name": "Andrey dos Santos",
+      "email": "teste@teste.com",
+      "password": "123asdASs2#"
+    },
+    {
+      "id": "3a00",
+      "document": "603.714.313-79",
+      "name": "Andrey dos Santos",
+      "email": "teste@teste.com",
+      "password": "12322#AAAs"
+    }
+  ]
+}

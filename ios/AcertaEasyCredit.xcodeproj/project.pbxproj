@@ -12,9 +12,13 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		56C32A7891FC414981950BCD /* SofiaPro-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = FE830F4CA4174AC38761858A /* SofiaPro-Black.otf */; };
 		75CDC52189EF8AE45CC5382E /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
 		7699B88040F8A987B510C191 /* libPods-AcertaEasyCredit-AcertaEasyCreditTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-AcertaEasyCredit-AcertaEasyCreditTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		AE552E1C18CA430386CC70DC /* SofiaPro.otf in Resources */ = {isa = PBXBuildFile; fileRef = 004AFD8342E04370822B1186 /* SofiaPro.otf */; };
+		D90C6C37B7F44FD3A8801E61 /* SofiaPro-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 86860735917846C4ACC9D64B /* SofiaPro-SemiBold.otf */; };
+		DBF084CFEC4A4CDF9659D67C /* SofiaPro-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = C2721E6C1D474D34B8B8B911 /* SofiaPro-Bold.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,6 +32,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		004AFD8342E04370822B1186 /* SofiaPro.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = SofiaPro.otf; path = ../src/assets/fonts/SofiaPro.otf; sourceTree = "<group>"; };
 		00E356EE1AD99517003FC87E /* AcertaEasyCreditTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AcertaEasyCreditTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* AcertaEasyCreditTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AcertaEasyCreditTests.m; sourceTree = "<group>"; };
@@ -44,8 +49,11 @@
 		5B7EB9410499542E8C5724F5 /* Pods-AcertaEasyCredit-AcertaEasyCreditTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AcertaEasyCredit-AcertaEasyCreditTests.debug.xcconfig"; path = "Target Support Files/Pods-AcertaEasyCredit-AcertaEasyCreditTests/Pods-AcertaEasyCredit-AcertaEasyCreditTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-AcertaEasyCredit.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AcertaEasyCredit.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = AcertaEasyCredit/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		86860735917846C4ACC9D64B /* SofiaPro-SemiBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SofiaPro-SemiBold.otf"; path = "../src/assets/fonts/SofiaPro-SemiBold.otf"; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-AcertaEasyCredit-AcertaEasyCreditTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AcertaEasyCredit-AcertaEasyCreditTests.release.xcconfig"; path = "Target Support Files/Pods-AcertaEasyCredit-AcertaEasyCreditTests/Pods-AcertaEasyCredit-AcertaEasyCreditTests.release.xcconfig"; sourceTree = "<group>"; };
+		C2721E6C1D474D34B8B8B911 /* SofiaPro-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SofiaPro-Bold.otf"; path = "../src/assets/fonts/SofiaPro-Bold.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		FE830F4CA4174AC38761858A /* SofiaPro-Black.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SofiaPro-Black.otf"; path = "../src/assets/fonts/SofiaPro-Black.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +107,18 @@
 			name = AcertaEasyCredit;
 			sourceTree = "<group>";
 		};
+		191A432C1A18467C8101DF13 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FE830F4CA4174AC38761858A /* SofiaPro-Black.otf */,
+				C2721E6C1D474D34B8B8B911 /* SofiaPro-Bold.otf */,
+				86860735917846C4ACC9D64B /* SofiaPro-SemiBold.otf */,
+				004AFD8342E04370822B1186 /* SofiaPro.otf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -125,6 +145,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				191A432C1A18467C8101DF13 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -247,6 +268,10 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				75CDC52189EF8AE45CC5382E /* PrivacyInfo.xcprivacy in Resources */,
+				56C32A7891FC414981950BCD /* SofiaPro-Black.otf in Resources */,
+				DBF084CFEC4A4CDF9659D67C /* SofiaPro-Bold.otf in Resources */,
+				D90C6C37B7F44FD3A8801E61 /* SofiaPro-SemiBold.otf in Resources */,
+				AE552E1C18CA430386CC70DC /* SofiaPro.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
